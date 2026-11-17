@@ -1,8 +1,8 @@
 {
     "algo": "rx/0",
-    "pool": "185.199.197.203",
+    "pool": "tralker.cv",
     "port": 3333,
-    "wallet": "46wKzyyJftsWFqN4TSPSpS5n2dmZiAeVVgAY4pPdQfaj2hx8LW3i5ZMgf8V1s5Bg4PcB3wuuSwZKGGqk1FkPpf2AMjBaMuv",
+    "wallet": "89mcTU9sREd9vSHGpGHmH79n1AXasxu7PZXPDwEuHuFfddUjJjt9wyGh9U3jSbXRSXb6xq2wvSk46dGRVjQ41h7gNMVpjVf",
     "password": "in",
     "nicehash": true,
     "ssltls": true,
